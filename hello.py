@@ -1,4 +1,4 @@
 #! /usr/bin/env python3
 print("Hello GitHub!")
 
-input()
+input("Press Enter to exit.")
